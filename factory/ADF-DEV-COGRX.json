@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV-COGRX",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfb3b9f2-6134-4698-8b54-a95d3172cf3f",
+		"tenantId": "34234742-86d5-433f-863d-c454191bc065"
+	}
+}
